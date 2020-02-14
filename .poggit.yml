@@ -2,6 +2,6 @@
 branches:
 - master
 projects:
-  SeeDevice-Advanced:
+  SeeDevice:
     path: ""
 ...
