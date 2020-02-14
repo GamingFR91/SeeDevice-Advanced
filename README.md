@@ -1,11 +1,11 @@
 # SeeDevice
-A pmmp plugin for Minecraft(W10,BE) [PHP]
+A pmmp plugin for Minecraft BE(PE,Win10,Switch,PS4, etc...) [PHP]
 ## Some Informations
 This is a "api" plugin to get more easly user's Device<br>
 *Don't be afraid by opening a issue or a pull request*
 **An important lexical error have been resolved, so the API have Been Changed!!**
 **How to Get the device of an user with our plugin**<br>
-Just so easy: ``` $userDevice =SeeDevice::getInstance()->getUsd($player);```<br>
+Just so easy: ``` $userDevice = SeeDevice::getInstance()->getUsd($player);```<br>
 And you get it but before doing that, just check if the plugin is enabled You have lot of possibility to call our fonction getUsD<br>
 **I want to get The OS of player**<br>
 Just do that: ```
@@ -25,4 +25,5 @@ To have acces to the 2 command the player have to get the permission "SeeDevice.
 - [x] Do the Readme <br>
 - [x] Possibility to change the name of the OS<br>
 - [x] Create a command to get The Device Name of the user<br>
+- [x] Patch Players Max HP<br>
 - [ ] Config have more controls! Enable or Disable the command<br>
