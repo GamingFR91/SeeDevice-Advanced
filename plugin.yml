@@ -1,6 +1,6 @@
 name: SeeDevice
 version: "1.0.0"
-author: Palente-Edited_By_GamingFR91
+author: GamingFR91
 main: SeeDevice\SeeDevice
 description: "More easy to get the Device/OS of a Player"
 website: "https://github.com/GamingFR91"
