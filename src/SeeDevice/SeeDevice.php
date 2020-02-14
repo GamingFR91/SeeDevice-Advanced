@@ -91,7 +91,7 @@ class SeeDevice extends PluginBase implements Listener{
         $akha = "NoName"; #If you have the Name of that send me a mp
       break;
       case 10:
-        $akha = "Playstation_4";
+        $akha = "PS4";
       break;
       case 11:
         $akha = "NX"; #NX no name... wollah c vrai
