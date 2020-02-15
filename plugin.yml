@@ -1,5 +1,5 @@
-name: SeeDevice
-version: "1.0.0"
+name: SeeDevice-V2
+version: "1.0.0-Beta"
 author: GamingFR91
 main: SeeDevice\SeeDevice
 description: "More easy to get the Device/OS of a Player"
