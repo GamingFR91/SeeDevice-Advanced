@@ -13,7 +13,7 @@ class TheTask extends Task{
 		foreach(Server::getInstance()->getOnlinePlayers() as $player){
 			$player->setNameTagVisible();
 			#Thanks to virvolta
-			$player->setScoreTag("§f\n[§c".$player->getHealth()."§f/" . $player->getMaxHealth() . "]\n§5".$this->api->getUos($player)). " | §a" . §player->getPing() . "ms";
+			$player->setScoreTag("§f\n[§c".$player->getHealth()."§f/" . $player->getMaxHealth() . "]\n§5".$this->api->getUos($player));
 		}
 	}
 }
